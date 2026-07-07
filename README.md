@@ -1,3 +1,4 @@
+<img src="banner_booteable.jpg" alt="Banner de Emily Ortega" width="100%">
 # ¡Hola! Soy Emily Ortega (BOOTEABLE) 👋
 
 Estudiante de **Ingeniería en Ciencias de la Computación**. Mi perfil es una mezcla única: me apasiona el **Diseño Web (UI/UX)**, pero también disfruto ensuciarme las manos en la **Terminal** levantando y configurando **Infraestructura Cloud**.
