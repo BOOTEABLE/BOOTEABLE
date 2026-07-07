@@ -10,10 +10,10 @@ Me encanta conceptualizar interfaces atractivas en Figma y luego utilizar la con
 
 | Área | Herramientas y Tecnologías que Disfruto |
 | :--- | :--- |
-| **Diseño UI/UX & Web** | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white) Canva, HTML, CSS, Maquetación Visual. |
-| **Infraestructura & Cloud** | ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) Despliegue de Servicios, Sistemas Distribuidos, Contenedores. |
-| **Consola & Sistemas** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) Ubuntu, Kali Linux, Scripting Básico, Gestión de Terminal. |
-| **Bases de Datos Web** | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) (Atlas para entornos ágiles). |
+| **Diseño UI/UX & Web** | <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"> Canva, HTML, CSS, Maquetación Visual. |
+| **Infraestructura & Cloud** | <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" alt="AWS"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"> <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx"> Despliegue de Servicios, Sistemas Distribuidos, Contenedores. |
+| **Consola & Sistemas** | <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"> Ubuntu, Kali Linux, Scripting Básico, Gestión de Terminal. |
+| **Bases de Datos Web** | <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"> (Atlas para entornos ágiles). |
 
 ---
 
@@ -26,5 +26,5 @@ Me encanta conceptualizar interfaces atractivas en Figma y luego utilizar la con
 ---
 
 ### 📫 Contacto
-* 💼 [LinkedIn]([https://linkedin.com](https://www.linkedin.com/feed/)) 
+* 💼 [LinkedIn](https://www.linkedin.com/in/emy-ortega-9b0980365/) 
 * 📧 [Correo Electrónico](emybel2005@gmail.com) 
