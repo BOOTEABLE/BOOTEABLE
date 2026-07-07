@@ -29,3 +29,8 @@ Me encanta conceptualizar interfaces atractivas en Figma y luego utilizar la con
 ### 📫 Contacto
 * 💼 [LinkedIn](https://www.linkedin.com/in/emy-ortega-9b0980365/) 
 * 📧 [Correo Electrónico](emybel2005@gmail.com) 
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BOOTEABLE/BOOTEABLE/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/BOOTEABLE/BOOTEABLE/output/github-contribution-grid-snake.svg">
+</picture>
